@@ -6,6 +6,7 @@
 Computer Engeneering And Digital Technology( CEDT ) Chulalongkorn University
 
 
+![nisitchula](https://github.com/maipai01/maipai01/blob/main/nisit-chula.svg)
 ![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg?raw=true)
 ![CEDTbadge](https://github.com/maipai01/maipai01/blob/main/cedt-engineer.svg)
 # My Sensei 
