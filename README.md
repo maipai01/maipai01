@@ -19,7 +19,7 @@ I learn from
 
 # About Me (○｀ 3′○)
 
-![Anime] https://miro.medium.com/v2/resize:fit:1400/1*6vghLHfR5DfgCkFGLvUTBg.jpeg
+![Anime](https://github.com/maipai01/maipai01/blob/main/koe-no-katachi.png)
 
 I love this anime. 
 Anime Name : Koe no Katachi (A silent voice / A shape of voice)
