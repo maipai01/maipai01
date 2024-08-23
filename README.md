@@ -7,7 +7,7 @@ Computer Engeneering And Digital Technology( CEDT ) Chulalongkorn University
 
 
 ![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg?raw=true)
-
+![CEDTbadge](https://github.com/maipai01/maipai01/blob/main/cedt-engineer.svg)
 # My Sensei 
 ## Asst. Prof. Nattee Niparnan
 ![Sensei](https://cdn.discordapp.com/avatars/428960062699208734/6aeae449ad58f6ed72cfa0fbfc82e370.webp?size=100)
