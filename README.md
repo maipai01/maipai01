@@ -1,17 +1,27 @@
-# Hi my name is Maipai01 🎍 #CEDT02
+# Who am I
 
-## I learning in My CourseVille [MCV] https://www.mycourseville.com/
-<!--
-**maipai01/maipai01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **I'm Natthawit La-ongsiri**
+## Nick Name : Maipai 🎍
 
-Here are some ideas to get you started:
+Computer Engeneering And Digital Technology( CEDT ) Chulalongkorn University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What did I do
+
+I learn from 
+- Grader
+- Mycorseville
+
+# CEDT Subject that I learn
+
+- Com Prog
+- I2CEDT
+- Discreate Math
+
+# About Me (○｀ 3′○)
+
+![Anime] https://miro.medium.com/v2/resize:fit:1400/1*6vghLHfR5DfgCkFGLvUTBg.jpeg
+
+I love this anime. 
+Anime Name : Koe no Katachi (A silent voice / A shape of voice)
+
+---
