@@ -1,6 +1,6 @@
 # Hi my name is Maipai01 🎍 #CEDT02
 
-## I learning in My CourseVille (MCV) [MCV] https://www.mycourseville.com/
+## I learning in My CourseVille [MCV] https://www.mycourseville.com/
 <!--
 **maipai01/maipai01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
