@@ -1,4 +1,4 @@
-# Who am I
+# Who am I ?
 
 # **I'm Natthawit La-ongsiri**
 ## Nick Name : Maipai 🎍
@@ -16,6 +16,9 @@ I learn from
 - Com Prog
 - I2CEDT
 - Discreate Math
+
+# My Sensei : Asst. Prof. Nattee Niparnan
+![Sensei](https://cdn.discordapp.com/avatars/428960062699208734/6aeae449ad58f6ed72cfa0fbfc82e370.webp?size=100)
 
 # About Me (○｀ 3′○)
 
