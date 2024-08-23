@@ -4,6 +4,8 @@
 ## Nick Name : Maipai 🎍
 
 Computer Engeneering And Digital Technology( CEDT ) Chulalongkorn University
+
+
 ![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg?raw=true)
 
 # My Sensei 
