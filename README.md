@@ -19,9 +19,20 @@ I learn from
 
 # About Me (○｀ 3′○)
 
-![Anime](https://github.com/maipai01/maipai01/blob/main/koe-no-katachi.png)
+![Anime](https://miro.medium.com/v2/resize:fit:1400/1*6vghLHfR5DfgCkFGLvUTBg.jpeg)
 
-I love this anime. 
-Anime Name : Koe no Katachi (A silent voice / A shape of voice)
+I love this anime. **q(≧▽≦q)**
+
+
+**Koe no Katachi (A silent voice / A shape of voice)**
 
 ---
+
+> ถ้าเขียนโค้ด error ไม่ต้องเขียน
+> เขียนโค้ด error ไม่ต้องเขียน
+> โค้ด error ไม่ต้องเขียน
+> error ไม่ต้องเขียน
+> ror ไม่ต้องเขียน
+> ไม่ต้องเขียน
+> ต้องเขียน
+> เขียน
