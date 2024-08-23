@@ -1,7 +1,8 @@
 # Who am I ?
+**I'm Natthawit La-ongsiri**
 
-# **I'm Natthawit La-ongsiri**
-## Nick Name : Maipai 🎍
+
+Nick Name : Maipai 🎍
 
 Computer Engeneering And Digital Technology( CEDT ) Chulalongkorn University
 
