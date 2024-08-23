@@ -4,7 +4,7 @@
 ## Nick Name : Maipai 🎍
 
 Computer Engeneering And Digital Technology( CEDT ) Chulalongkorn University
-<svg xmlns="http://www.w3.org/2000/svg" width="171.33333206176758" height="35" viewBox="0 0 171.33333206176758 35"><rect width="71.66666793823242" height="35" fill="#ffffff"/><rect x="71.66666793823242" width="99.66666412353516" height="35" fill="#88211c"/><text x="35.83333396911621" y="21.5" font-size="12" font-family="'Roboto', sans-serif" fill="#d77aa3" text-anchor="middle" letter-spacing="2">CHULA</text><text x="121.5" y="21.5" font-size="12" font-family="'Montserrat', sans-serif" fill="#ffffff" text-anchor="middle" font-weight="900" letter-spacing="2">ENGINEER</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="161.33333206176758" height="35" viewBox="0 0 161.33333206176758 35"><rect width="61.66666793823242" height="35" fill="#f78947"/><rect x="61.66666793823242" width="99.66666412353516" height="35" fill="#88211c"/><text x="30.83333396911621" y="21.5" font-size="12" font-family="'Roboto', sans-serif" fill="#ffffff" text-anchor="middle" letter-spacing="2">CEDT</text><text x="111.5" y="21.5" font-size="12" font-family="'Montserrat', sans-serif" fill="#ffffff" text-anchor="middle" font-weight="900" letter-spacing="2">ENGINEER</text></svg>
 # What did I do
 
 I learn from 
