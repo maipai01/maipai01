@@ -1,7 +1,6 @@
 # Who am I ?
 
 
-![Ishida]([https://www.google.co.th/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F415879346830713453%2F&psig=AOvVaw0gFA0xincmyDsWqATLUGVA&ust=1724485802914000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjY1LHQiogDFQAAAAAdAAAAABBW](https://i.pinimg.com/originals/2c/26/61/2c2661642d5a05f75b2efc4b5b7fedbe.gif))
 **I'm Natthawit La-ongsiri**
 
 
