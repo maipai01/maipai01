@@ -20,6 +20,9 @@ I learn from
 # My Sensei 
 ## Asst. Prof. Nattee Niparnan
 ![Sensei](https://cdn.discordapp.com/avatars/428960062699208734/6aeae449ad58f6ed72cfa0fbfc82e370.webp?size=100)
+
+
+## DR. JESSADA THUTKAWKORAPIN
 ![Sensei2](https://cdn.discordapp.com/avatars/863314026180509707/1a94ae94156464e0627d9dceef78afc1.webp?size=100)
 
 # About Me (○｀ 3′○)
