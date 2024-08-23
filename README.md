@@ -4,18 +4,7 @@
 ## Nick Name : Maipai 🎍
 
 Computer Engeneering And Digital Technology( CEDT ) Chulalongkorn University
-<svg xmlns="http://www.w3.org/2000/svg" width="161.33333206176758" height="35" viewBox="0 0 161.33333206176758 35"><rect width="61.66666793823242" height="35" fill="#f78947"/><rect x="61.66666793823242" width="99.66666412353516" height="35" fill="#88211c"/><text x="30.83333396911621" y="21.5" font-size="12" font-family="'Roboto', sans-serif" fill="#ffffff" text-anchor="middle" letter-spacing="2">CEDT</text><text x="111.5" y="21.5" font-size="12" font-family="'Montserrat', sans-serif" fill="#ffffff" text-anchor="middle" font-weight="900" letter-spacing="2">ENGINEER</text></svg>
-# What did I do
-
-I learn from 
-- Grader
-- Mycorseville
-
-# CEDT Subject that I learn
-
-- Com Prog
-- I2CEDT
-- Discreate Math
+![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg?raw=true)
 
 # My Sensei 
 ## Asst. Prof. Nattee Niparnan
