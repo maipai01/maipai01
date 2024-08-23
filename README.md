@@ -22,7 +22,7 @@ Computer Engeneering And Digital Technology( CEDT ) Chulalongkorn University
 
 ![Sensei2](https://cdn.discordapp.com/avatars/863314026180509707/1a94ae94156464e0627d9dceef78afc1.webp?size=100)
 ---
-# About Me (○｀ 3′○)
+# About Me (*￣3￣)╭
 
 ![Anime](https://miro.medium.com/v2/resize:fit:1400/1*6vghLHfR5DfgCkFGLvUTBg.jpeg)
 
